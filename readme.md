@@ -2,7 +2,7 @@
 #### _This page serves as a display of my acidemic and professional experience version 1.0 2020_
 
 #### By _**Name: Ian Gregg Email: Iangregg188@gmail.com**_
-[My-portfolio-landing-page-](https://github.com/oldgregg89/My-portfolio-landing-page-)
+[My-portfolio-landing-page-](https://oldgregg89.github.io/My-Portfolio-landing-page/.)
 
 ## Description
 
